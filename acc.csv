@@ -1,0 +1,29 @@
+,ACC
+Start,1-Jan-16
+End,16-FEB-2022
+Period,1518 days 00:00:00
+Start Value,100000.0
+End Value,141601.7316486766
+Total Return [%],41.60173164867659
+Benchmark Return [%],63.02551596112631
+Max Gross Exposure [%],100.0
+Total Fees Paid,249.37655860348605
+Max Drawdown [%],47.823616320036365
+Max Drawdown Duration,403 days 00:00:00
+Total Trades,1
+Total Closed Trades,0
+Total Open Trades,1
+Open Trade PnL,41601.73164867659
+Win Rate [%],
+Best Trade [%],
+Worst Trade [%],
+Avg Winning Trade [%],
+Avg Losing Trade [%],
+Avg Winning Trade Duration,
+Avg Losing Trade Duration,
+Profit Factor,
+Expectancy,
+Sharpe Ratio,-92.0708919261706
+Calmar Ratio,0.1824135584283702
+Omega Ratio,0.0004523459165097087
+Sortino Ratio,-19.016532352568383
